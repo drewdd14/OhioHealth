@@ -1,0 +1,10 @@
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\bin\Debug\Ohio_Health_Kata.exe.config
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\bin\Debug\Ohio_Health_Kata.exe
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\bin\Debug\Ohio_Health_Kata.pdb
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.csprojAssemblyReference.cache
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.Form1.resources
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.Properties.Resources.resources
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.csproj.GenerateResource.cache
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.csproj.CoreCompileInputs.cache
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.exe
+C:\Users\ddonovan\source\repos\Ohio_Health_Kata\Ohio_Health_Kata\obj\Debug\Ohio_Health_Kata.pdb
